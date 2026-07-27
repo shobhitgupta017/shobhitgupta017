@@ -6,7 +6,7 @@ from collections import Counter
 
 
 def count_words(text: str) -> Counter:
-    return Counter(re.findall(r"[a-z0-9']+", text.lower()))
+    return Counter(re.findall(r"[a-z0-9]+(?:'[a-z0-9]+)*", text.lower()))
 
 
 def main() -> None:
