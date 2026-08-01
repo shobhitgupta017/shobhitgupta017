@@ -16,19 +16,27 @@ Results-driven operations analyst with expertise in data analysis and process op
 
 ## 🛠️ Skills
 
+- Brand marketing and marketing strategy
+- Marketing plan formulation based on consumer research insights
+- Consumer and market research and insights
+- Market share and category growth
+- Marketing mix management (pricing, promotion, product, distribution — 4Ps)
+- Marketing budgeting and cost control
+- P&L, profitability and sales management
+- Tracking and measuring performance of marketing strategies
+- Cross-functional collaboration with sales teams, strategic stakeholders, CCSD and Key Account Managers
+- Trade marketing activity planning and implementation
+- Go-to-market planning and campaign execution
+- Data-driven decision-making
 - Strong analytical skills — understanding and communicating clear insights from data across varied sources
 - Data analysis
-- Process automation
 - Inventory management and forecasting
-- Working with AI models
-- Ability to work independently and balance multiple priorities
-- Exceptional organizational skills with a positive "can-do" attitude
+- Process automation
 - Excellent written and verbal communication with key stakeholders
-- Strong written and verbal English
-- Flexibility to accommodate schedules across various time zones
-- Proficiency in MS Office Suite
 - Customer relationship management (CRM)
+- Exceptional organizational skills with a positive "can-do" attitude
 - Leadership
+- Proficiency in MS Office Suite
 
 ## 💼 Experience
 
