@@ -1,8 +1,12 @@
 # Hi, I'm Shobhit Gupta 👋
 
-**Operations Analyst**
+**Assistant Brand Manager**
 
-Results-driven operations analyst with expertise in data analysis and process optimization. Recognized for enhancing communication and collaboration within teams, leading to improved operational efficiencies and cost savings. Eager to contribute insights that drive strategic decision-making.
+Emerging brand marketer with a strong analytical and operations foundation in data analysis, process optimization and cross-functional collaboration. Recognized for turning data into insights that drive strategic decision-making, cost savings and commercial growth.
+
+## 👤 About Me
+
+I am an aspiring Assistant Brand Manager transitioning from operations and data analysis into brand management, where I can pair consumer research insights with commercial rigour. I am keen to formulate and implement marketing plans, manage the full marketing mix across pricing, promotion, product and distribution, and own marketing budgeting and cost control for a brand portfolio. I enjoy tracking the performance of marketing strategies alongside sales teams and strategic stakeholders, and partnering with CCSD and Key Account Managers to plan and execute trade activities. My goal is to help grow market share, category performance and profitability for the brands I support.
 
 ## 📫 Contact
 
