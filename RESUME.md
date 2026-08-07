@@ -1,8 +1,8 @@
 # Shobhit Gupta
 
-**Operations Analyst**
+**E-commerce / Amazon Ads Specialist**
 
-Results-driven operations analyst with expertise in data analysis and process optimization. Recognized for enhancing communication and collaboration within teams, leading to improved operational efficiencies and cost savings. Eager to contribute insights that drive strategic decision-making.
+E-commerce professional moving into retail media and Amazon Advertising, with hands-on marketplace experience in product listings, media content and online product visibility. Strong in data analysis, process optimization and reporting — the same discipline that campaign management demands when tracking ROAS, ACOS and conversion metrics. Detail-oriented and comfortable balancing multiple priorities across campaign setup, monitoring and reporting cycles. Currently building hands-on depth in Sponsored Products, Sponsored Brands, Sponsored Display and Amazon DSP, and looking for an entry-level campaign management role where analytical rigour and fast learning matter.
 
 ## Contact
 
@@ -14,10 +14,24 @@ Results-driven operations analyst with expertise in data analysis and process op
 
 ## Skills
 
+### E-commerce & Retail Media
+
+- Amazon Advertising (Sponsored Products, Sponsored Brands, Sponsored Display) — working knowledge, building hands-on experience
+- Amazon DSP — familiarity, currently learning
+- Retail media and marketplace advertising fundamentals
+- Campaign lifecycle support: setup, monitoring, optimization and reporting
+- ROAS / ACOS and conversion metric analysis
+- Keyword research and bid optimization concepts
+- Audience targeting and remarketing concepts
+- Attribution models and campaign performance reporting
+- E-commerce product listing and content optimization
+- Inventory management and forecasting
+
+### Analytical & Professional
+
 - Strong analytical skills — understanding and communicating clear insights from data across varied sources
 - Data analysis
 - Process automation
-- Inventory management and forecasting
 - Working with AI models
 - Ability to work independently and balance multiple priorities
 - Exceptional organizational skills with a positive "can-do" attitude
@@ -48,10 +62,16 @@ Results-driven operations analyst with expertise in data analysis and process op
 ### E-commerce Executive — Vinkx
 *2022*
 
-- Managed product listings on e-commerce platforms for VinkX.
-- Updated inventory records to ensure accurate stock levels.
+- Managed and optimized product listings for [X] SKUs across e-commerce marketplaces, improving content quality and search discoverability.
+- Uploaded and refreshed media content (images and product creatives) to strengthen online product visibility, contributing to [X]% growth in product page traffic.
+- Monitored listing and stock accuracy to keep products eligible and available for on-platform promotion, reducing out-of-stock incidents by [X]%.
+- Tracked product-level sales and traffic data to flag underperforming listings for content and pricing action.
 - Managed customer accounts by processing payments, updating profiles, and responding to inquiries.
-- Uploaded media content to enhance online product visibility on e-commerce platforms.
+
+## Certifications
+
+- Amazon Ads Retail for Advertisers — *in progress*
+- Amazon Ads Sponsored Ads Foundations Certification — *in progress*
 
 ## Education
 
